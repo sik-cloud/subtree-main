@@ -1,1 +1,2 @@
 file 3 (from lib)
+add some text from main
